@@ -2,7 +2,7 @@
 VERSION: 0.0.1
 
 ## Brief:
-Send Messages to it's children when start running. <please explan more here...>
+Send Messages to it's children when start running. please explan more here...
 
 ## Gems:
 none
