@@ -2,7 +2,7 @@
 VERSION: 0.0.1
 
 ## Brief:
-Send XenoMessages to it's children when start running.
+Send Messages to it's children when start running.
 
 ## Gems:
 none
@@ -12,9 +12,26 @@ none
 loop_delay: 0.5  # native configuration
 enabled: true    # native configuration
 
-max_msgs: 3      # ???
-interval: 2.0    # ???
-msg_data: {}     # define XenoMessage data
-msg_context: {}  # define XenoMessage context
-msg_command: ""  # define XenoMessage command      
+max_msgs: 3      # optional; ???
+interval: 2.0    # optional; ???
+msg_data: {}     # optional; define XenoMessage data
+msg_context: {}  # optional; define XenoMessage context
+msg_command: ""  # optional; define XenoMessage command      
 ```
+
+## In-bound Message:
+### Expected Message Context
+```
+```
+### Expected Message Data
+```
+```
+### Expected Message Command
+```
+```
+
+
+
+
+
+
