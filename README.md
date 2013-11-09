@@ -20,13 +20,13 @@ msg_command: ""  # optional; define XenoMessage command
 ```
 
 ## In-bound Message:
-### Expected Message Context
+#### Expected Message Context:
 ```
 ```
-### Expected Message Data
+#### Expected Message Data:
 ```
 ```
-### Expected Message Command
+#### Expected Message Command:
 ```
 ```
 
