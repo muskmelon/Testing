@@ -5,7 +5,7 @@ VERSION: 0.0.1
 * none
 
 ## Brief:
-* 
+Send one XenoMessage to it's children when start running.
 
 ## Config:
 ```
