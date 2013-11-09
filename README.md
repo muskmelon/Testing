@@ -19,14 +19,14 @@ msg_context: {}  # optional; define XenoMessage context
 msg_command: ""  # optional; define XenoMessage command      
 ```
 
-## In-bound Message:
-#### Expected Message Context:
+## Expected In-bound Message:
+#### Context:
 ```
 ```
-#### Expected Message Data:
+#### Data:
 ```
 ```
-#### Expected Message Command:
+#### Command:
 ```
 ```
 
