@@ -1,11 +1,11 @@
 ## IMAPReaderRouterNode
 VERSION: 0.0.1
 
-## Gems:
-none
-
 ## Brief:
 Send XenoMessages to it's children when start running.
+
+## Gems:
+none
 
 ## Config:
 ```
