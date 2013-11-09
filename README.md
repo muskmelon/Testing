@@ -1,13 +1,13 @@
 IMAPReaderRouterNode
 VERSION: 0.0.1
 
-### Gems:
+## Gems:
 * none
 
-### Brief:
+## Brief:
 * 
 
-### Config:
+## Config:
 ```
 loop_delay: 0.5
 enabled: true
